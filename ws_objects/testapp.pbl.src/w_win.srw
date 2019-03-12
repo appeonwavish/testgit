@@ -31,6 +31,10 @@ on w_win.destroy
 destroy(this.cb_1)
 end on
 
+event open;//
+
+end event
+
 type cb_1 from commandbutton within w_win
 integer x = 622
 integer y = 288
