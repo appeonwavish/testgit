@@ -31,7 +31,7 @@ on w_win.destroy
 destroy(this.cb_1)
 end on
 
-event open;//
+event open;//123
 end event
 
 type cb_1 from commandbutton within w_win
